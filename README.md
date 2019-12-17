@@ -45,4 +45,4 @@
 <b>Por favor siga el siguiente enlace:  </b>
 [Version 1.0 SpeedLimit Taller S.A de C.V  |  C++](https://github.com/DanielRivera03/Sistema-Venta-Repuestos)
 
-<h4>*** Fecha de subida: 16 diciembre 2019    |     Fecha Ultima Modificación: 17 diciembre 2019 ***</h4>
+<h4>*** Fecha de Subida: 16 diciembre 2019    |     Fecha Última Modificación: 17 diciembre 2019 ***</h4>
