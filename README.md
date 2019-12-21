@@ -17,31 +17,37 @@
 </ul>
 <b>Por favor tome en cuenta que al momento que usted descargue todo este repositorio, se ha incluido el manual de instalación y manual de usuario en el cual usted podrá leer y seguir los pasos para el óptimo manejo y montaje del mismo.</b><br>
 
-![CSharp](https://user-images.githubusercontent.com/44457989/70968018-afb2cf00-205d-11ea-9b79-2ff5a0a100ac.png)
+![CSharp](https://user-images.githubusercontent.com/44457989/70968018-afb2cf00-205d-11ea-9b79-2ff5a0a100ac.png)<br>
 
 <h3>Sistema desarrollado bajo el lenguaje de programación C Sharp (C#), compartido y liberado para fines educativos.</h3>
 
 <h4>A continuación algunas capturas de la ejecución del sistema.<h4>
   
 ![1](https://user-images.githubusercontent.com/44457989/70968352-9a8a7000-205e-11ea-8fb8-99fd535597aa.PNG)
+<br>
 <b>* Inicio de sesión del sistema</b>
 
 ![2](https://user-images.githubusercontent.com/44457989/70968402-c4dc2d80-205e-11ea-8976-a89ac255df2b.PNG)
+<br>
 <b> * Animación de espera previo al ingreso del sistema según rol de autenticación</b>
 
 ![3](https://user-images.githubusercontent.com/44457989/70968550-23091080-205f-11ea-9166-422d2e540314.PNG)
+<br>
 <b> * Panel de administración usuarios nivel (rol / nivel Administradores)</b>
 
 ![5](https://user-images.githubusercontent.com/44457989/70968827-ea1d6b80-205f-11ea-95dd-d8286195adc3.PNG)
 <b> * Panel de administración usuarios nivel (rol / nivel Gerencia General)</b>
 
 ![6](https://user-images.githubusercontent.com/44457989/70968940-349ee800-2060-11ea-81e4-6c5b663a686e.PNG)
+<br>
 <b> * Panel de administración usuarios (rol / nivel Empleados)</b>
 
 ![4](https://user-images.githubusercontent.com/44457989/70968636-619ecb00-205f-11ea-8860-cbfd785d1d26.PNG)
+<br>
 <b> * Facturación de productos para venta final a clientes</b>
 
 ![SPEEDLIMIT-DFD](https://user-images.githubusercontent.com/44457989/70970025-fa831580-2062-11ea-84db-8b18081afb42.png)
+<br>
 <b> * Esquema del sistema representado en un Diagrama de Flujo de Datos Nivel Cero (DFD Nivel Cero)</b>
 
 > ¿Desea obtener la primera versión de este proyecto desarrollado en C++? <br>
